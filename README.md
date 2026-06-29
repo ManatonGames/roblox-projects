@@ -1,2 +1,2 @@
 # roblox-projects
-A collection of my Roblox development projects and systems.
+A collection of my Roblox development projects and system
